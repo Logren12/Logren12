@@ -1,6 +1,8 @@
 ## Hi there 👋
 🌱 I’m currently learning Python
-I have some experience with Jetpack Compose using Kotlin. \n
+
+Playing with Jetpack Compose using Kotlin.
+
 Looking for great fullstack books, lemme know if u know one!
 <!--
 **Logren12/Logren12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
