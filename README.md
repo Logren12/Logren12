@@ -1,8 +1,5 @@
 ## Hi there 👋
-🌱 Learning Linux administration. Book recommendations always welcome ;)))
-
-Playing with Jetpack Compose using Kotlin.
-
+⚙️ Tinkering with Linux. Book recommendations always welcome ;)))
 <!--
 **Logren12/Logren12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
